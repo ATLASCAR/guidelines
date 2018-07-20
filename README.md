@@ -18,6 +18,12 @@ Check the github page [github.com/lardemua](https://github.com/lardemua) or the 
 
 ## Installation
 
+If this is a python standalone, then just use the pip install and the [requirements.txt file](https://pip.readthedocs.io/en/1.1/requirements.html) mechanism:
+
+```bash
+sudo pip install -r requirements.txt
+```
+
 ## Usage
 
 ## Credits
