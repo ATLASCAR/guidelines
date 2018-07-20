@@ -26,6 +26,9 @@ sudo pip install -r requirements.txt
 
 ## Usage
 
+For the sake of example, lets call the __fantastic__ 
+script/do-nothing.py -n miguel
+
 ## Credits
 
 List the authors, current develpers, inspiring projects, etc.
