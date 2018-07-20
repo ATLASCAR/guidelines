@@ -1,1 +1,3 @@
+#requirements.txt file
+#Install with sudo pip install -r <path to requirements file>
 argparse>=1.4.0
