@@ -3,6 +3,8 @@ Contains guidelines and tutorials for developing code for the Laboratory of Auto
 
 Check the github page [github.com/lardemua](https://github.com/lardemua) or the [lars.mec.ua.pt](http://lars.mec.ua.pt).
 
+![docs/guidelines-readme.png](docs/guidelines-readme.png?raw=true "guidelines")
+
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -30,7 +32,7 @@ X license. See LICENSE for full details.
 # The GUI Window
 
 
-![docs/scene.png](docs/scene.png?raw=true "scene")
+
 
 There are several keys that can be used:
 
