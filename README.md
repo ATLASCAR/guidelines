@@ -1,7 +1,7 @@
 # Introduction
 Contains guidelines and tutorials for developing code for the Laboratory of Automation and Robotics, Department of Mechanical Engineering, University of Aveiro.
 
-Check the github page [https://github.com/lardemua](https://github.com/lardemua) or the [lars.mec.ua.ot](lars.mec.ua.pt).
+Check the github page [github.com/lardemua](https://github.com/lardemua) or the [lars.mec.ua.pt](http://lars.mec.ua.pt).
 
 # Table of Contents
 
