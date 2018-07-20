@@ -1,5 +1,5 @@
-# guidelines
-Contains guidelines and tutorials for developing code withing the ATLASCAR project.
+# Description
+Contains guidelines and tutorials for developing code for the Laboratory of Automation and Robotics at hte Department of Mechanical Engineering, University of Aveiro (lars.mec.ua.pt).
 
 # Table of Contents
 
@@ -12,19 +12,6 @@ Contains guidelines and tutorials for developing code withing the ATLASCAR proje
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-# [Project](http://project-url)
-
-## Description
-
-_Project Name_ is a... 
-
-For example ...
-
-    example code
-    
-And this returns:
-    example return code
-    ...
 
 ## Installation
 
