@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# IDE backup files
+*.swp     #vim 
+*~        #gedit
