@@ -19,27 +19,16 @@ Check the github page [github.com/lardemua](https://github.com/lardemua) or the 
 
 ## Usage
 
-## Where to get help
 
-* Documentation
-* Mailing List
-* Wiki
+## Credits
 
-## Contribution Guidelines
-Tell me how I can help out including wanted features and code standards
-
-## Contributor List
-List the humans behind the project
-
-## Credits, Inspiration, Alternatives
-Tell me if this is a fork of or otherwise inspired by another project.
+List the authors, current develpers, inspiring projects, etc.
 
 ## License
 X license. See LICENSE for full details.
 
 # The GUI Window
 
-The gui window display a lot of information about the detections and trackers of the current scene.
 
 ![docs/scene.png](docs/scene.png?raw=true "scene")
 
