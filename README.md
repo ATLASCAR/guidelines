@@ -24,7 +24,7 @@ If this is a python standalone project, so just use the pip install and the [req
 sudo pip install -r requirements.txt
 ```
 
-## Usage
+# Usage
 
 For the sake of example, lets call this __fantastic__ [python script](scritp/do-nothing.py)
 
@@ -39,7 +39,7 @@ usage: do-nothing.py [-h] -n NAME [-v VALUE]
 do-nothing.py: error: argument -n/--name is required
 ```
 
-## Credits
+# Credits
 
 List the authors, current develpers, inspiring projects, etc.
 
@@ -50,7 +50,7 @@ Author Name  | Email
 Vitor Santos | vitor@ua.pt
 Miguel Riem Oliveira | mriem@ua.pt
 
-## License
+# License
 GNU GP3. See LICENSE for full details.
 
 
