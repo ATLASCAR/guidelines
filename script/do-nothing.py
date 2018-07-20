@@ -41,7 +41,7 @@ if __name__ == "__main__":
     #--- Parse command line argument
     #---------------------------------------
     ap = argparse.ArgumentParser()
-    ap.add_argument("-n", "--name", help = "name of the user", required=True, type=string)
+    ap.add_argument("-n", "--name", help = "name of the user", required=True)
     ap.add_argument("-v", "--value", help = "a very important value to do nothing with", default=1234.5, type=float)
     args = vars(ap.parse_args())
 
