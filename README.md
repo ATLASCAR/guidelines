@@ -10,9 +10,9 @@ Check the github page [github.com/lardemua](https://github.com/lardemua) or the 
 - [Guidelines for LARDEMUA](#guidelines-for-lardemua)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
