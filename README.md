@@ -7,28 +7,22 @@ Check the github page [github.com/lardemua](https://github.com/lardemua) or the 
 
 # Table of Contents
 
+- [Guidelines for LARDEMUA](#guidelines-for-lardemua)
 - [Table of Contents](#table-of-contents)
-- [The GUI Window](#the-gui-window)
-- [Running the system](#running-the-system)
-- [Using as an API](#using-as-an-api)
-- [Input json format](#input-json-format)
-- [Output json format](#output-json-format)
+- [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-## Installation
+# Installation
 
-### Python project
-
-If this is a python standalone, then just use the pip install and the [requirements.txt file](https://pip.readthedocs.io/en/1.1/requirements.html) mechanism:
+If this is a python standalone project, so just use the pip install and the [requirements.txt file](https://pip.readthedocs.io/en/1.1/requirements.html) mechanism:
 
 ```bash
 sudo pip install -r requirements.txt
 ```
-
-### ROS package
-
-### Javascript project
 
 ## Usage
 
@@ -49,7 +43,7 @@ do-nothing.py: error: argument -n/--name is required
 
 List the authors, current develpers, inspiring projects, etc.
 
-Here goes an example of a table 
+Here goes an example of a table with the authors:
 
 Author Name  | Email
 ------------- | -------------
