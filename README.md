@@ -18,11 +18,17 @@ Check the github page [github.com/lardemua](https://github.com/lardemua) or the 
 
 ## Installation
 
+### Python project
+
 If this is a python standalone, then just use the pip install and the [requirements.txt file](https://pip.readthedocs.io/en/1.1/requirements.html) mechanism:
 
 ```bash
 sudo pip install -r requirements.txt
 ```
+
+### ROS package
+
+### Javascript project
 
 ## Usage
 
@@ -43,22 +49,18 @@ do-nothing.py: error: argument -n/--name is required
 
 List the authors, current develpers, inspiring projects, etc.
 
+Here goes an example of a table 
+
+Author Name  | Email
+------------- | -------------
+Vitor Santos | vitor@ua.pt
+Miguel Riem Oliveira | mriem@ua.pt
+
 ## License
 GNU GP3. See LICENSE for full details.
 
 
 
 
-
-
-There are several keys that can be used:
-
-Window Name  | Description
-------------- | -------------
-**n** or **space** | move to the next frame
-**d** | displays the detections for the current frame
-**m** | displays the tracker appearance models for the current frame
-**s** | displays the distance matrixes for the current frame
-**q** | abort and save output json file and crops images (if configured to do so)
 
 
