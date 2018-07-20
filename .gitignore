@@ -32,5 +32,5 @@
 *.app
 
 # IDE backup files
-*.swp     #vim 
-*~        #gedit
+*.swp     
+*~       
