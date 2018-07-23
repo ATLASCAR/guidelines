@@ -26,7 +26,7 @@ sudo pip install -r requirements.txt
 
 # Usage
 
-For the sake of example, lets call this __fantastic__ [python script](scritp/do-nothing.py)
+For the sake of example, lets call this __fantastic__ [python script](script/do-nothing.py)
 
 ```bash
 script/do-nothing.py -n miguel
